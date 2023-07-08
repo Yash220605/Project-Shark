@@ -17,10 +17,8 @@
                         <li class="form">
                             <input type="text" class="form-control form-input" placeholder="Search anything...">
                         </li>
-                        <li class="nav-item "><a class="nav-link" href="Categories.php">Categories</a></li>
-                        <li class="nav-item "><a class="nav-link" href="account.php"><img src="images/user.webp" width="22px" height="22"></a></li>
-                        <li class="nav-item "><a class="nav-link" href="cart.php"><img src="images/cart.png" width="22px" height="22"></a></li>
-                    </ul>
+                        <li class="nav-item "><a class="nav-link" href="index.php">Login</a></li>
+                        <li class="nav-item "><a class="nav-link" href="account.php"><img src="images/user.webp" width="22px" height="22"></a></li>                    </ul>
                 </nav>
             </div>
         </div>
